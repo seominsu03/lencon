@@ -94,3 +94,12 @@ python predict.py ../models/[Model] [input text file] [length you need] \
 + Yuta Kikuchi, Graham Neubig, Ryohei Sasano, Hiroya Takamura and Manabu Okumura  
 Controlling Output Length in Neural Encoder-Decoders  
 [EMNLP 2016](http://aclweb.org/anthology/D/D16/D16-1140.pdf), [bibtex](http://aclweb.org/anthology/D/D16/D16-1140.bib), ([arXiv](https://arxiv.org/abs/1609.09552))
+
+## 출처 및 참고 코드
+
+본 저장소는 신경망 Encoder-Decoder 모델의 출력 길이 제어 기법을 연구하기 위한 참고 코드입니다.
+
+- 원본 저장소: https://github.com/kiyukuta/lencon
+- 원본 논문: Kikuchi et al., *Controlling Output Length in Neural Encoder-Decoders* (EMNLP 2016)
+
+원본 코드의 저작권 및 라이선스 조건을 따릅니다.
